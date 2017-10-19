@@ -1,2 +1,2 @@
 # hello-world
-justhelloworld project
+just a helloworld project
